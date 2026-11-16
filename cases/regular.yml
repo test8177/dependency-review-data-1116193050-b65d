@@ -1,0 +1,4 @@
+license-check: false
+vulnerability-check: true
+fail-on-severity: critical
+show-openssf-scorecard: false
